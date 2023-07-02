@@ -1,2 +1,2 @@
 # sampling_issues
-Code report: Create incomplete sampling and taxonomic uncertainty in bipartie networks
+Code report to generate sampling issues (i.e., incomplete sampling and taxonomic uncertainty) in bipartie networks
