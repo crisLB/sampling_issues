@@ -1,4 +1,4 @@
-# sampling_issues
+# Code report to generate sampling issues in bipartite networks.
 
 Cristina Llopis-Belenguer, 2023.
 
