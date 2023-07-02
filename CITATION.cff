@@ -1,0 +1,10 @@
+@software{cristina_llopis_belenguer_2023_8105567,
+  author       = {Cristina Llopis-Belenguer},
+  title        = {{Code report to generate sampling issues v1.0.0}},
+  month        = jul,
+  year         = 2023,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.8105567},
+  url          = {https://doi.org/10.5281/zenodo.8105567}
+}
